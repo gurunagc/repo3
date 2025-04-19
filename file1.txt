@@ -6,4 +6,5 @@ changes on branch b1
 changes on branch b2
 changes on master
 stats
+changes again in feature  to obser commit things 
 changes again in master to obser commit things 
