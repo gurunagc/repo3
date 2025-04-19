@@ -2,6 +2,3 @@ test chnges with add
 unchanged
 goodmorning
 test
-changes on branch b1
-changes on branch b2
-changes on master
