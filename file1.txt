@@ -6,4 +6,3 @@ changes on branch b1
 changes on branch b2
 changes on master
 stats
-statsameline
